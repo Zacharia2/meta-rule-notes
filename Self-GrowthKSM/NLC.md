@@ -19,3 +19,5 @@ Thought(thing) -> NL -> Cognition
 > https://zh.wikipedia.org/wiki/%E8%AA%9E%E8%A8%80
 
 为什么 当下/目前 的我们接触到 语词 新思想 Nt(D) 等等 有助于我们走出困境？{联想：教育和学习}
+
+当你确实后也意味着失去了其它可能性。
